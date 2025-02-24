@@ -2,12 +2,15 @@
 
 [https://linktr.ee/fortytwoprod](https://linktr.ee/fortytwoprod)
 
-This notebook helps you rename your Ableton stem files. It has tools to remove prefixes and numbers from file names and rename files in a folder and its subfolders. Use the `folder_path` and `prefix` variables to set the folder location and the prefix to remove.
+This program tidies up the names of Ableton stem files. It removes prefixes and numbers from file names in a folder and all its subfolders. Just set the `folder_path` and `prefix` variables to get started.
 
 ## Setup tutorial
 
-1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download Python, the programming language used for this tool.
-2. 
+1. [Install Python](https://www.python.org/downloads/), the programming language used for this tool.
+2. Install [Visual Studio Code](https://code.visualstudio.com/), which provides an interface to run this program.
+3. Download the code by clicking the green "Code" button on this page and selecting "Download ZIP".
+4. Decompress the ZIP file to a folder.
+5. Open Visual Studio Code, click "File" in the menu bar, select "Open Folder...", select the folder and click "Open".
 
 To run the code, follow these steps:
 
