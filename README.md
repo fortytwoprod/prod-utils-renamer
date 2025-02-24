@@ -16,12 +16,12 @@ This program helps you clean up the names of your Ableton stem files by removing
 To run the code, follow these steps:
 
 1. Set the `folder_path` variable to the path of the folder containing your Ableton stem files.
-    - **On macOS**: Right-click on the folder and select "Get Info". Under the "General" section, highlight the text to the right of "Where" and press Command+C to copy the path. In this notebook, find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `/` at the end and type the folder name afterwards.
-    - **On Windows**: Right-click on the folder and select "Properties". Under the "General" tab, highlight the text to the right of "Location" and press Ctrl+C to copy the path. In this notebook, find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `\` at the end and type the folder name afterwards.
+    - **On macOS**: Right-click on the folder and select "Get Info". Under the "General" section, highlight the text to the right of "Where" and press Command+C to copy the path. In the file "renamer_ableton.ipynb", find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `/` at the end and type the folder name afterwards.
+    - **On Windows**: Right-click on the folder and select "Properties". Under the "General" tab, highlight the text to the right of "Location" and press Ctrl+C to copy the path. In the file "renamer_ableton.ipynb", find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `\` at the end and type the folder name afterwards.
 2. Set the `prefix` variable to the prefix you want to remove from the file names.
 3. Click "Run All" to execute the notebook.
-    1. If a "Select kernel" dialog box appears at the top of the window, click on the first option.
-    2. If a pop-up asks to install an ipykernel, select "Install".
+    - If a "Select kernel" dialog box appears at the top of the window, click on the first option.
+    - If a pop-up asks to install an ipykernel, select "Install".
 
 ## The MIT License
 
