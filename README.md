@@ -2,7 +2,7 @@
 
 [https://linktr.ee/fortytwoprod](https://linktr.ee/fortytwoprod)
 
-This program helps you clean up the names of your Ableton stem files by removing prefixes and numbers from the file names in a folder and all its subfolders. 
+This program helps you clean up the names of your Ableton stem files by removing prefixes and track numbers that are added during export. It renames all audio files in a specified folder and its subfolders. 
 
 ## Setup tutorial
 
@@ -25,7 +25,9 @@ To run the code, follow these steps:
 
 ## Part of the Producer Utilities toolkit
 
-Follow me on social media and let me know what other processes I should automate!
+Follow me on social media and let me know via DM or email what other processes I should automate!
+
+[https://linktr.ee/fortytwoprod](https://linktr.ee/fortytwoprod) @fortytwoprod everywhere
 
 ![](prod_utils_img.jpg)
 
