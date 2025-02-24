@@ -15,7 +15,7 @@ To run the code, follow these steps:
 2. Set the `prefix` variable to the prefix you want to remove from the file names.
 3. Click "Run All".
 
-![](prod_utils_imgs.jpg)
+![](prod_utils_img.jpg)
 
 ## The MIT License
 
