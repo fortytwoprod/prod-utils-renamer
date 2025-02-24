@@ -6,7 +6,7 @@ This notebook helps you rename your Ableton stem files. It has tools to remove p
 
 ## Setup tutorial
 
-1. Go to ![https://www.python.org/downloads/](https://www.python.org/downloads/) and download Python, the programming language used for this tool.
+1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download Python, the programming language used for this tool.
 2. 
 
 To run the code, follow these steps:
