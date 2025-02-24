@@ -1,4 +1,4 @@
-# Producer utilities: Ableton stems renamer
+# Producer Utilities: Ableton stems renamer
 
 [https://linktr.ee/fortytwoprod](https://linktr.ee/fortytwoprod)
 
@@ -22,6 +22,10 @@ To run the code, follow these steps:
 3. Click "Run All" to execute the notebook.
     - If a "Select kernel" dialog box appears at the top of the window, click on the first option.
     - If a pop-up asks to install an ipykernel, select "Install".
+
+## Part of the Producer Utilities toolkit
+
+Follow me on social media and let me know what other processes I should automate!
 
 ![](prod_utils_img.jpg)
 
