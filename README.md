@@ -2,7 +2,7 @@
 
 [https://linktr.ee/fortytwoprod](https://linktr.ee/fortytwoprod)
 
-This program tidies up the names of Ableton stem files. It removes prefixes and numbers from file names in a folder and all its subfolders. Just set the `folder_path` and `prefix` variables to get started.
+This program helps you clean up the names of your Ableton stem files by removing prefixes and numbers from the file names in a folder and all its subfolders. 
 
 ## Setup tutorial
 
@@ -10,14 +10,18 @@ This program tidies up the names of Ableton stem files. It removes prefixes and 
 2. Install [Visual Studio Code](https://code.visualstudio.com/), which provides an interface to run this program.
 3. Download the code by clicking the green "Code" button on this page and selecting "Download ZIP".
 4. Decompress the ZIP file as a folder.
-5. Open Visual Studio Code, click "File" in the menu bar, select "Open Folder...", select the folder and click "Open".
+5. Open Visual Studio Code, click "File" in the menu bar, select "Open Folder...", select the folder and click "Open" on macOS or "Select Folder" on Windows.
 6. In Visual Studio Code, open the file "renamer_ableton.ipynb".
 
 To run the code, follow these steps:
 
 1. Set the `folder_path` variable to the path of the folder containing your Ableton stem files.
+    - **On macOS**: Right-click on the folder and select "Get Info". Under the "General" section, highlight the text to the right of "Where" and press Command+C to copy the path. In this notebook, find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `/` at the end and type the folder name afterwards.
+    - **On Windows**: Right-click on the folder and select "Properties". Under the "General" tab, highlight the text to the right of "Location" and press Ctrl+C to copy the path. In this notebook, find the line that says `folder_path =` and replace the existing path with the one you copied. Make sure to add a `\` at the end and type the folder name afterwards.
 2. Set the `prefix` variable to the prefix you want to remove from the file names.
-3. Click "Run All". If the "Select kernel" dialogue box shows at the top of the window, click on the first option.
+3. Click "Run All" to execute the notebook.
+    1. If a "Select kernel" dialog box appears at the top of the window, click on the first option.
+    2. If a pop-up asks to install an ipykernel, select "Install".
 
 ## The MIT License
 
